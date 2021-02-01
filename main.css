@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-size: 24px;
+}
+
+#dateHeader {
+    background-color: black;
+    text-align: right;
+    color: white;
+    top: 0;
+    left: 0;
+    min-height: 25px;
+    width: 100%;
+    position: fixed;
+}
+
+#date {
+    margin-right: 25px;
+}
+
